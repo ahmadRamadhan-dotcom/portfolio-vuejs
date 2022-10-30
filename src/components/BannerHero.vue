@@ -1,9 +1,8 @@
 <template>
-  <div
-    id="banner-hero"
-    class="flex justify-center sm:p-[50px_50px] lg:p-[180px_180px] xl:p-[150px_150px]"
-  >
-    <div class="lg:flex items-center sm:w-[600px] lg:w-full xl:w-[1100px]">
+  <div id="banner-hero" class="flex justify-center items-center min-h-screen">
+    <div
+      class="lg:flex 2xl:gap-8 items-center sm:w-[600px] lg:w-[750px] xl:w-[1100px] 2xl:w-[1200px]"
+    >
       <div class="grid">
         <h1
           class="title sm:text-5xl md:text-[96px] font-bold xl:w-[500px] xl:leading-[88px]"
