@@ -1,22 +1,20 @@
 <template>
   <div
     id="card"
+    v-for="(data, index) in projectData"
+    :key="index"
     class="rounded-lg border border-gray-800 w-10/12 sm:w-[300px] min-h-[300px]"
   >
-    <img
-      src="https://res.cloudinary.com/dk7urhntn/image/upload/v1667343797/Screenshot_2022-11-01_22-00-49_x2uh1o.png"
-      id="thumbnail"
-      alt="thumbnail project"
-    />
+    <img :src="data.thumbnail" id="thumbnail" />
     <div id="content" class="min-h-[80px] p-4">
       <div class="min-h-[140px]">
-        <p class="name_project font-bold">Rust Website Clone</p>
+        <p class="project_name font-bold">{{ data.name }}</p>
         <p class="description_project">
-          Rust Official Website Clone with vue JS and Tailwindcss
+          {{ data.desc }}
         </p>
       </div>
       <div class="link flex gap-6 justify-end">
-        <a class="flex items-center gap-3">
+        <a :href="data.website" class="flex items-center gap-3">
           <svg viewBox="0 0 256 256" class="w-6 h-6" astro-icon="ph:globe">
             <path
               fill="currentColor"
@@ -25,7 +23,7 @@
           </svg>
           <span class="text-sm">Visit</span>
         </a>
-        <a class="flex items-center gap-3">
+        <a :href="data.github" class="flex items-center gap-3">
           <img src="/github_icon.png" alt="" class="h-5" />
           <span class="text-sm">Source</span>
         </a>
@@ -33,3 +31,9 @@
     </div>
   </div>
 </template>
+
+<script setup>
+const props = defineProps({
+  projectData: Array,
+});
+</script>
