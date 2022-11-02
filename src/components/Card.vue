@@ -14,7 +14,7 @@
         </p>
       </div>
       <div class="link flex gap-6 justify-end">
-        <a :href="data.website" class="flex items-center gap-3">
+        <a :href="data.website" class="flex items-center gap-3" target="_blank">
           <svg viewBox="0 0 256 256" class="w-6 h-6" astro-icon="ph:globe">
             <path
               fill="currentColor"
@@ -23,7 +23,7 @@
           </svg>
           <span class="text-sm">Visit</span>
         </a>
-        <a :href="data.github" class="flex items-center gap-3">
+        <a :href="data.github" class="flex items-center gap-3" target="_blank">
           <img src="/github_icon.png" alt="" class="h-5" />
           <span class="text-sm">Source</span>
         </a>
