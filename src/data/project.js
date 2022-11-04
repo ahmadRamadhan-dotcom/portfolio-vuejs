@@ -53,15 +53,6 @@ const projectData = [
     website: "@maddddddd_bot",
     github: "",
   },
-  {
-    id: 7,
-    name: "Peduli Lindungi",
-    desc: "Official Website of Peduli Lindungi (super-app in indonesia) clone with vue JS, Tailwindcss and vue-i18n",
-    thumbnail:
-      "https://res.cloudinary.com/dk7urhntn/image/upload/v1667350464/peduli_lindungi_tja8kp.png",
-    website: "https://pedulilindungi-clone.netlify.app/",
-    github: "https://github.com/ahmadRamadhan-dotcom/peduli-lindungi-clone-vue",
-  },
 ];
 
 export default projectData;
