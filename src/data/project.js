@@ -4,7 +4,7 @@ const projectData = [
     desc: "Official Red Dead Redemption 2 Clone with vue JS, vue router and Tailwindcss",
     thumbnail:
       "https://res.cloudinary.com/dk7urhntn/image/upload/v1667533190/rdr_wkbxzj.png",
-    website: "",
+    website: "https://red-dead-redemption2-clone-vue.netlify.app/",
     github: "https://github.com/ahmadRamadhan-dotcom/rdr2-website-clone",
   },
   {
@@ -52,7 +52,30 @@ const projectData = [
     name: "Ahmad Bot",
     desc: "My Telegram bot written in node.js with many features",
     thumbnail: "",
-    website: "@maddddddd_bot",
+    website: "https://t.me/maddddddd_bot",
+    github: "",
+  },
+  {
+    name: "Luxspace E-commerce",
+    desc: "E-commerce website using react, tailwindcss and react router",
+    thumbnail:
+      "https://res.cloudinary.com/dk7urhntn/image/upload/v1667602175/luxspace_rha7f9.png",
+    website: "https://luxscape-ahmadramdhan.netlify.app/",
+    github: "",
+  },
+  {
+    name: "Emoji Search",
+    desc: "Simple website for search an emoji with react",
+    thumbnail: "",
+    website: "https://emoji-search-ahmadramadhan.netlify.app/",
+    github: "",
+  },
+  {
+    name: "E-commerce product page",
+    desc: "a challenge from frontend mentor using html css js",
+    thumbnail:
+      "https://res.cloudinary.com/dk7urhntn/image/upload/v1667621252/css_ehvaag.png",
+    website: "https://e-commerce-product-page-ahmadramadhan.pages.dev/",
     github: "",
   },
 ];

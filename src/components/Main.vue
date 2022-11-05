@@ -5,6 +5,15 @@
   >
     <Card :project-data="projectData" />
   </main>
+  <h2 class="text-center text-white mt-10 text-lg">
+    More project on
+    <a
+      href="https://github.com/ahmadRamadhan-dotcom"
+      target="_blank"
+      class="underline"
+      >github</a
+    >
+  </h2>
 </template>
 
 <script setup>

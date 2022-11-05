@@ -23,7 +23,12 @@
           </svg>
           <span class="text-sm">Visit</span>
         </a>
-        <a :href="data.github" class="flex items-center gap-3" target="_blank">
+        <a
+          v-if="data.github != ''"
+          :href="data.github"
+          class="flex items-center gap-3"
+          target="_blank"
+        >
           <img src="/github_icon.png" alt="" class="h-5" />
           <span class="text-sm">Source</span>
         </a>
