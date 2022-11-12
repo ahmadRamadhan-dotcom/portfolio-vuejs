@@ -1,7 +1,15 @@
 const projectData = [
   {
+    name: "MacBookPro 13-inch Website Clone",
+    desc: "MacBookPro 13 inch Official Website Clone with VueJS, Vue Router and Tailwindcss",
+    thumbnail:
+      "https://res.cloudinary.com/dk7urhntn/image/upload/v1668246643/macbook_ieahml.png",
+    website: "https://macbook-pro-13-clone-vuejs-tailwindcs.netlify.app/",
+    github: "https://github.com/ahmadRamadhan-dotcom/macbook-pro-13-web-clone/",
+  },
+  {
     name: "Red Dead Redemption 2 Website Clone",
-    desc: "Official Red Dead Redemption 2 Clone with vue JS, vue router and Tailwindcss",
+    desc: "Official Red Dead Redemption 2 Clone with VueJS, Vue Router and Tailwindcss",
     thumbnail:
       "https://res.cloudinary.com/dk7urhntn/image/upload/v1667533190/rdr_wkbxzj.png",
     website: "https://red-dead-redemption2-clone-vue.netlify.app/",
@@ -9,7 +17,7 @@ const projectData = [
   },
   {
     name: "Rust Website clone",
-    desc: "Rust Official Website Clone with vue JS and Tailwindcss",
+    desc: "Rust Official Website Clone with VueJS and Tailwindcss",
     thumbnail:
       "https://res.cloudinary.com/dk7urhntn/image/upload/v1667343797/Screenshot_2022-11-01_22-00-49_x2uh1o.png",
     website: "https://rust-website-clone-vue-tailwindcss.netlify.app/",
@@ -18,7 +26,7 @@ const projectData = [
   },
   {
     name: "A Clone of Story of Season Pioneers Of Olive Town",
-    desc: "Official Story of Season Pioneers Of Olive Town clone with vue JS and Tailwindcss",
+    desc: "Official Story of Season Pioneers Of Olive Town clone with VueJS and Tailwindcss",
     thumbnail:
       "https://res.cloudinary.com/dk7urhntn/image/upload/v1667349049/story_of_season_ftlk5z.png",
     website: "https://story-of-season-poot-vue-tailwindcss.netlify.app/",
@@ -26,7 +34,7 @@ const projectData = [
   },
   {
     name: "Samsung 990 Pro NVME",
-    desc: "Samsung 990 Pro NVME Offical website clone with vue JS and Tailwindcss",
+    desc: "Samsung 990 Pro NVME Offical website clone with VueJS and Tailwindcss",
     thumbnail:
       "https://res.cloudinary.com/dk7urhntn/image/upload/v1667349532/samsung_lwjwyq.png",
     website: "https://samsung-990-pro-clone-vue-tailwindcss.netlify.app/",
@@ -34,7 +42,7 @@ const projectData = [
   },
   {
     name: "Noice.id",
-    desc: "Official Noice.id (the biggest streaming podcast etc in indonesia) website clone with vue JS, Tailwindcss and vue-i18n",
+    desc: "Official Noice.id (the biggest streaming podcast etc in indonesia) website clone with VueJS, Tailwindcss and vue-i18n",
     thumbnail:
       "https://res.cloudinary.com/dk7urhntn/image/upload/v1667349860/noice.id_dxf5xe.png",
     website: "https://noiceid-clone-vue-tailwindcss.netlify.app/",
@@ -42,7 +50,7 @@ const projectData = [
   },
   {
     name: "Noicemaker website",
-    desc: "Noicemaker Official Website clone with vue JS and Tailwindcss",
+    desc: "Noicemaker Official Website clone with VueJS and Tailwindcss",
     thumbnail:
       "https://res.cloudinary.com/dk7urhntn/image/upload/v1667350271/noice_maker_n0befs.png",
     website: "https://studio-noice-clone.netlify.app/",
