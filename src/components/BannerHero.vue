@@ -1,7 +1,7 @@
 <template>
   <div
     id="banner-hero"
-    class="flex justify-center xl:justify-start 2xl:justify-center xl:ml-[3%] 2xl:ml-0 items-center sm:min-h-screen md:min-h-[500px]"
+    class="flex justify-center xl:justify-start 2xl:justify-center xl:ml-[3%] 2xl:ml-0 items-center sm:min-h-[300px] md:min-h-[500px]"
   >
     <div
       class="lg:flex mt-20 sm:mt-0 2xl:gap-8 items-center w-10/12 sm:w-[600px] lg:w-[750px] xl:w-[1100px] 2xl:w-[1200px]"

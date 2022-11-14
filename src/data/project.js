@@ -1,7 +1,7 @@
 const projectData = [
   {
     name: "MacBookPro 13-inch Website Clone",
-    desc: "MacBookPro 13 inch Official Website Clone with VueJS, Vue Router and Tailwindcss",
+    desc: "MacBookPro 13 inch Official Website Clone with VueJS, Vue Router, Pinia and Tailwindcss",
     thumbnail:
       "https://res.cloudinary.com/dk7urhntn/image/upload/v1668246643/macbook_ieahml.png",
     website: "https://macbook-pro-13-clone-vuejs-tailwindcs.netlify.app/",
@@ -9,7 +9,7 @@ const projectData = [
   },
   {
     name: "Red Dead Redemption 2 Website Clone",
-    desc: "Official Red Dead Redemption 2 Clone with VueJS, Vue Router and Tailwindcss",
+    desc: "Official Red Dead Redemption 2 Clone with VueJS, Vue Router, Pinia and Tailwindcss",
     thumbnail:
       "https://res.cloudinary.com/dk7urhntn/image/upload/v1667533190/rdr_wkbxzj.png",
     website: "https://red-dead-redemption2-clone-vue.netlify.app/",
