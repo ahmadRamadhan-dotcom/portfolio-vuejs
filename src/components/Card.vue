@@ -8,8 +8,8 @@
     <img
       :src="data.thumbnail"
       id="thumbnail"
-      alt="p"
-      class="h-32 w-full object-cover"
+      alt="project"
+      class="h-[145px] w-full object-cover"
     />
     <div id="content" class="min-h-[80px] p-4">
       <div class="min-h-[140px]">
