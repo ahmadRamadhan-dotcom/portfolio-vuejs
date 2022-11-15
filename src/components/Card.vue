@@ -5,7 +5,12 @@
     :key="index"
     class="rounded-lg border border-gray-800 w-10/12 sm:w-[300px] min-h-[300px]"
   >
-    <img :src="data.thumbnail" id="thumbnail" />
+    <img
+      :src="data.thumbnail"
+      id="thumbnail"
+      alt="p"
+      class="h-32 w-full object-cover"
+    />
     <div id="content" class="min-h-[80px] p-4">
       <div class="min-h-[140px]">
         <p class="project_name font-bold">{{ data.name }}</p>
