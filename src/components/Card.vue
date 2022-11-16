@@ -9,7 +9,7 @@
       :src="data.thumbnail"
       id="thumbnail"
       alt="project"
-      class="h-[145px] w-full object-cover"
+      class="sm:h-[145px] w-full object-cover"
     />
     <div id="content" class="min-h-[80px] p-4">
       <div class="min-h-[140px]">
