@@ -8,6 +8,14 @@ const projectData = [
     github: "https://github.com/ahmadRamadhan-dotcom/macbook-pro-13-web-clone/",
   },
   {
+    name: "Volta.net Website Clone (base on 21 nov)",
+    desc: "Official Volta.net Website Clone with VueJS, Vue Router, Pinia and Tailwndcss",
+    thumbnail:
+      "https://res.cloudinary.com/dk7urhntn/image/upload/v1669174698/volta_iaspdm.png",
+    website: "https://volta-clone.vercel.app/",
+    github: "https://github.com/ahmadRamadhan-dotcom/volta-clone",
+  },
+  {
     name: "Red Dead Redemption 2 Website Clone",
     desc: "Official Red Dead Redemption 2 Clone with VueJS, Vue Router, Pinia and Tailwindcss",
     thumbnail:
