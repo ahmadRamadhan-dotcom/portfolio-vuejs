@@ -24,10 +24,10 @@
         class="grid mt-8 sm:mt-8 gap-3 sm:gap-4 xl:gap-5 xl:ml-24"
         id="contact or project"
       >
-        <span class="xl:text-2xl font-normal text-[#dbeafe]"
+        <span class="xl:text-2xl font-normal text-white"
           ><a href="#project">Projects</a></span
         >
-        <span class="xl:text-2xl font-normal text-[#dbeafe]"
+        <span class="xl:text-2xl font-normal text-white"
           ><a href="https://t.me/ahmad_ramadhan2000" target="_blank"
             >Telegram</a
           ></span
