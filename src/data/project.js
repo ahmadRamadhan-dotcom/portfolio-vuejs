@@ -33,6 +33,14 @@ const projectData = [
       "https://github.com/ahmadRamadhan-dotcom/rust-website-clone-vue-tailwind",
   },
   {
+    name: "Next.js blog template clone",
+    desc: "A clone of simple blog template from next.js using nuxt with Tailwindcss",
+    thumbnail:
+      "https://res.cloudinary.com/dk7urhntn/image/upload/v1669258756/Screenshot_2022-11-24_09-58-55_dzpneg.png",
+    website: "https://simple-nuxt3-blog.vercel.app/",
+    github: "https://github.com/ahmadRamadhan-dotcom/simple-nuxt3-blog",
+  },
+  {
     name: "A Clone of Story of Season Pioneers Of Olive Town",
     desc: "Official Story of Season Pioneers Of Olive Town clone with VueJS and Tailwindcss",
     thumbnail:
