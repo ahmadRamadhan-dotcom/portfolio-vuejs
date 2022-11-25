@@ -16,6 +16,14 @@ const projectData = [
     github: "https://github.com/ahmadRamadhan-dotcom/volta-clone",
   },
   {
+    name: "Bootstrap Example Clone",
+    desc: "More than 10 bootstrap example clone with VueJS, Vue Router and Tailwindcss,",
+    thumbnail:
+      "https://res.cloudinary.com/dk7urhntn/image/upload/v1669370431/Screenshot_2022-11-25_16-59-04_n9u7mo.png",
+    website: "https://example-bootstrap-clone.vercel.app/",
+    github: "https://github.com/ahmadRamadhan-dotcom/example-bootstrap-clone",
+  },
+  {
     name: "Red Dead Redemption 2 Website Clone",
     desc: "Official Red Dead Redemption 2 Clone with VueJS, Vue Router, Pinia and Tailwindcss",
     thumbnail:
