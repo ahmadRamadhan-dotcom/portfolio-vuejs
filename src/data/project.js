@@ -8,6 +8,14 @@ const projectData = [
     github: "https://github.com/ahmadRamadhan-dotcom/macbook-pro-13-web-clone/",
   },
   {
+    name: "Web Al-Quran",
+    desc: "Digital Al-Quran with public api, built with VUeJS, Vue Router, Tailwindcss",
+    thumbnail:
+      "https://res.cloudinary.com/dk7urhntn/image/upload/v1669644125/Screenshot_2022-11-28_20-54-08_dsy8ux.png",
+    website: "https://vue-quran-xi.vercel.app/",
+    github: "https://github.com/ahmadRamadhan-dotcom/vue-quran",
+  },
+  {
     name: "Volta.net Website Clone (base on 21 nov)",
     desc: "Official Volta.net Website Clone with VueJS, Vue Router, Pinia and Tailwndcss",
     thumbnail:
