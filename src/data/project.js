@@ -90,7 +90,7 @@ const projectData = [
   },
   {
     name: "Ahmad Bot",
-    desc: "My Telegram bot written in node.js with many features",
+    desc: "My Telegram bot written in node.js with many features, Slow in first open because i hosted in heroku free plan",
     thumbnail: "",
     website: "https://t.me/maddddddd_bot",
     github: "",
