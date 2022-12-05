@@ -89,13 +89,6 @@ const projectData = [
     github: "https://github.com/ahmadRamadhan-dotcom/noicemaker-studio-clone",
   },
   {
-    name: "Ahmad Bot",
-    desc: "My Telegram bot written in node.js with many features, Slow in first open because i hosted in heroku free plan",
-    thumbnail: "",
-    website: "https://t.me/maddddddd_bot",
-    github: "",
-  },
-  {
     name: "Luxspace E-commerce",
     desc: "E-commerce website using react, tailwindcss and react router",
     thumbnail:
